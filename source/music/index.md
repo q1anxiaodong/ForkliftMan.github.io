@@ -6,5 +6,3 @@ type: "music"
 ---
 
 <font color=#0c74d6 size=3 face="黑体">**这是歌单介绍，如果不需要刻意留空**</font>
-
-{% meting "697054881" "netease" "playlist" %}
